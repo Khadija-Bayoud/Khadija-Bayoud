@@ -9,7 +9,7 @@ A final Year AI Student.
 * 🌍  I'm based in Morocco
 * 🖥️  See my portfolio at [ka\_dijaaa.me](http://ka_dijaaa.me)
 * ✉️  You can contact me at [khadija.bayoud15@gmail.com](mailto:khadija.bayoud15@gmail.com)
-* 🧠  In Perpetual Learning...
+* 🧠  In a Perpetual Learning...
 * 🤝  I'm open to collaborating on NLP & Computer Vision projects.
 * ⚡  🏀
 
