@@ -7,7 +7,6 @@ A.K.A KMeaaaans
 A final Year AI Student.
 
 * 🌍  I'm based in Morocco
-* ✉️  You can contact me at [khadija.bayoud15@gmail.com](mailto:khadija.bayoud15@gmail.com)
 * 🧠  In a Perpetual Learning...
 * 🤝  I'm open to collaborating on NLP & Computer Vision projects.
 * ⚡  🏀
