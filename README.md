@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Khadija Bayoud
 ======================================================================================================================================
 
-A final Year AI Student.
+A final Year AI Student **@** **[Euromed University Of Fez](https://ueuromed.org/etablissement/ecole-dingenierie-digitale-et-dintelligence-artificielle-eidia/filieres)**
 
 * I'm based in Morocco
 * In a Perpetual Learning...
